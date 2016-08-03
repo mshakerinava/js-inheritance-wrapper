@@ -1,0 +1,5 @@
+{
+    "name": "inheritance-wrapper",
+    "description": "A simple wrapper for javascript inheritance.",
+    "main": "class.js"
+}

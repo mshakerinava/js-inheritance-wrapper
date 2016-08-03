@@ -1,0 +1,25 @@
+{
+    "name": "inheritance-wrapper",
+    "description": "A simple wrapper for javascript inheritance.",
+    "keywords": [
+        "class",
+        "wrapper",
+        "javascript",
+        "inheritance"
+    ],
+    "author": "Mehran Shakerinava",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mehran-shakerinava/js-inheritance-wrapper.git"
+    },
+    "main": "class.js",
+    "version": "1.0.0",
+    "license": {
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    },
+    "files": [
+        "class.js",
+        "license.txt"
+    ]
+}
