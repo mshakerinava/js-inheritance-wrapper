@@ -41,5 +41,5 @@ Class.extend = function (prototype) {
 }
 
 if (typeof exports !== 'undefined') {
-  exports.Class = Class
+  module.exports = Class
 }

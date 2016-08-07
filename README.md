@@ -31,6 +31,7 @@ var b = new B(1, 2)
 
 console.log('1 =? ', b.getA())
 console.log('2 =? ', b.getB())
+console.log('true =? ', b instanceof A)
 console.log('true =? ', b instanceof B)
 console.log('true =? ', b instanceof b.constructor)
 
